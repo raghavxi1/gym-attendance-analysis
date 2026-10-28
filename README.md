@@ -102,4 +102,4 @@ gym-attendance-analysis/
 
 ## Author
 **Raghav Siddharth**: Data Analyst
-[LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](https://github.com/raghavxi1) | raghavsid2005@gmail.com
+[LinkedIn](https://www.linkedin.com/in/raghav-siddharth-18207b295) | [GitHub](https://github.com/raghavxi1) | raghavsid2005@gmail.com
